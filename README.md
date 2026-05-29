@@ -52,6 +52,10 @@ This profile only includes public, recruiter-safe project summaries. Private cli
 
 ## Contact
 
-Open to software development, full-stack, QA-aware engineering, systems integration, and security-focused development opportunities.
+I’m open to software development, full-stack, QA-aware engineering, systems integration, and security-focused development opportunities.
+
+- GitHub: [github.com/Fhatu12](https://github.com/Fhatu12)
+- LinkedIn: [linkedin.com/in/fhatuwani-sikhwari-60013a1a](https://za.linkedin.com/in/fhatuwani-sikhwari-60013a1a)
+- Website: [sikhwarigroup.co.za](https://www.sikhwarigroup.co.za/)
 
 Built by SG Digital | A division of Sikhwari Group (Pty) Ltd
