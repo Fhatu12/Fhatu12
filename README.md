@@ -54,6 +54,7 @@ This profile only includes public, recruiter-safe project summaries. Private cli
 
 I’m open to software development, full-stack, QA-aware engineering, systems integration, and security-focused development opportunities.
 
+- Email: [Fhatuwani.Sikhwari@sikhwarigroup.co.za](mailto:Fhatuwani.Sikhwari@sikhwarigroup.co.za)
 - GitHub: [github.com/Fhatu12](https://github.com/Fhatu12)
 - LinkedIn: [linkedin.com/in/fhatuwani-sikhwari-60013a1a](https://za.linkedin.com/in/fhatuwani-sikhwari-60013a1a)
 - Website: [sikhwarigroup.co.za](https://www.sikhwarigroup.co.za/)
