@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I’m Fhatuwani Sikhwari
 
-<!--
-**Fhatu12/Fhatu12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a security-focused full-stack developer and systems integration specialist based in South Africa.
 
-Here are some ideas to get you started:
+I build practical web applications, e-commerce platforms, business systems, and secure digital products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured portfolio projects
+
+### Mzansi Select — E-commerce Store
+
+Mzansi Select is a South African e-commerce storefront project focused on creating a clean, trustworthy online shopping experience for curated products.
+
+**Skills shown:** Shopify, e-commerce, storefront UX, product catalogue planning, QA, release control, customer-facing copy.
+
+### V-Property — Property Platform
+
+V-Property is a property/rental platform project focused on helping users browse, manage, and work with property-related information through a web application.
+
+**Skills shown:** full-stack development, database-backed apps, product delivery, Git workflow, deployment planning, stakeholder preview readiness.
+
+## Current focus
+
+- Full-stack web application development
+- Secure-by-design development
+- QA-aware engineering
+- Business systems and API integration
+- E-commerce and product platforms
+- Cybersecurity learning and authorised security research
+
+## Privacy note
+
+This profile only includes public, recruiter-safe project summaries. Private client work, security research evidence, credentials, supplier details, and confidential project material are intentionally excluded.
+
+## Contact
+
+Open to software development, full-stack, QA-aware engineering, systems integration, and security-focused development opportunities.
+
+Built by SG Digital | A division of Sikhwari Group (Pty) Ltd
