@@ -27,6 +27,25 @@ V-Property is a property/rental platform project focused on helping users browse
 - E-commerce and product platforms
 - Cybersecurity learning and authorised security research
 
+## Authorised security research
+
+I also practise authorised security research through bug bounty and vulnerability disclosure programmes.
+
+My current focus areas include:
+
+- OWASP Top 10 awareness
+- access-control review
+- IDOR/BOLA methodology
+- information-disclosure analysis
+- scope validation
+- low-noise testing
+- evidence minimisation
+- clear vulnerability reporting
+
+Some reports have been accepted or closed as informational, which I treat as learning evidence rather than confirmed high-impact findings.
+
+Private programme details, report contents, target names, screenshots, request/response data, and reproduction material are not published unless disclosure is explicitly approved.
+
 ## Privacy note
 
 This profile only includes public, recruiter-safe project summaries. Private client work, security research evidence, credentials, supplier details, and confidential project material are intentionally excluded.
