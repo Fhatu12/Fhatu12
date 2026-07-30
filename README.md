@@ -4,6 +4,48 @@ I’m a security-focused full-stack developer and systems integration specialist
 
 I build practical web applications, e-commerce platforms, business systems, and secure digital products.
 
+## Open Source Contributions
+
+I am building a public engineering contribution record through scoped open-source
+work focused on documentation quality, contributor experience, QA guardrails,
+testing workflows, and secure development practices.
+
+### AirMCP
+
+A governed MCP runtime for the Apple ecosystem.
+
+- **PR #406** — Merged contribution improving testing documentation, Jest/Zod
+  guidance, and docs-drift validation.
+- **PR #412** — Merged contribution refreshing `CONTRIBUTING.md` against the
+  current registration and drift workflow.
+- Recognised as AirMCP’s first external contributor.
+
+**Skills shown:** documentation quality, contributor workflow, test guidance,
+docs-drift prevention, maintainer review response, secure automation awareness.
+
+### gettext-tstrings
+
+Python internationalisation tooling and translated documentation quality.
+
+- **PR #26** — Improved translated documentation quality by restoring missing
+  Markdown link targets and adding regression coverage.
+- Added parity checking for both inline Markdown links and reference-style
+  Markdown link definitions.
+- Responded to automated review feedback with a follow-up fix and validation.
+
+**Skills shown:** Python testing, documentation QA, internationalisation support,
+regression coverage, review feedback handling.
+
+### markdown-reader
+
+Markdown reading and document tooling.
+
+- **PR #206** — Refreshed contributor guidance to match the current FastAPI,
+  Next.js, and Tauri project structure.
+
+**Skills shown:** contributor experience, technical documentation,
+project-structure review, onboarding improvement.
+
 ## Featured portfolio projects
 
 ### Mzansi Select — E-commerce Store
