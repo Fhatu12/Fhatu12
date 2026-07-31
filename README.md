@@ -4,47 +4,33 @@ I’m a security-focused full-stack developer and systems integration specialist
 
 I build practical web applications, e-commerce platforms, business systems, and secure digital products.
 
-## Open Source Contributions
+## Open-Source Software Engineering
 
-I am building a public engineering contribution record through scoped open-source
-work focused on documentation quality, contributor experience, QA guardrails,
-testing workflows, and secure development practices.
+I contribute tested improvements to public software projects, working across
+unfamiliar codebases, automated testing, documentation, CI and technical review.
 
-### AirMCP
+My recent contribution work demonstrates the ability to:
 
-A governed MCP runtime for the Apple ecosystem.
+- investigate existing architecture and project conventions;
+- implement focused fixes without unnecessary scope expansion;
+- write regression tests and validation checks;
+- work with Python and JavaScript/TypeScript project tooling;
+- use Git branches, forks and pull requests safely;
+- respond constructively to technical review feedback;
+- diagnose edge cases and refine an implementation;
+- deliver changes that pass real project CI pipelines.
 
-- **PR #406** — Merged contribution improving testing documentation, Jest/Zod
-  guidance, and docs-drift validation.
-- **PR #412** — Merged contribution refreshing `CONTRIBUTING.md` against the
-  current registration and drift workflow.
-- Recognised as AirMCP’s first external contributor.
+### Selected contributions
 
-**Skills shown:** documentation quality, contributor workflow, test guidance,
-docs-drift prevention, maintainer review response, secure automation awareness.
+| Project | Contribution | Status |
+| --- | --- | --- |
+| [Beets](https://github.com/beetbox/beets) | Improved the Tidal metadata plugin so `search_limit` counts distinct album and track candidates, with regression coverage for duplicate handling, generator continuation and early stopping. | [PR #6896](https://github.com/beetbox/beets/pull/6896) — in review, CI passing |
+| [gettext-tstrings](https://github.com/yhay81/gettext-tstrings) | Added multilingual documentation link-target parity checks and corrected translated-page link defects. | [PR #26](https://github.com/yhay81/gettext-tstrings/pull/26) — merged |
+| [AirMCP](https://github.com/heznpc/AirMCP) | Delivered four merged contributions covering testing documentation, contributor workflow, template-drift validation and deterministic security-audit report testing. | [#406](https://github.com/heznpc/AirMCP/pull/406), [#412](https://github.com/heznpc/AirMCP/pull/412), [#415](https://github.com/heznpc/AirMCP/pull/415), [#417](https://github.com/heznpc/AirMCP/pull/417) — merged |
 
-### gettext-tstrings
-
-Python internationalisation tooling and translated documentation quality.
-
-- **PR #26** — Improved translated documentation quality by restoring missing
-  Markdown link targets and adding regression coverage.
-- Added parity checking for both inline Markdown links and reference-style
-  Markdown link definitions.
-- Responded to automated review feedback with a follow-up fix and validation.
-
-**Skills shown:** Python testing, documentation QA, internationalisation support,
-regression coverage, review feedback handling.
-
-### markdown-reader
-
-Markdown reading and document tooling.
-
-- **PR #206** — Refreshed contributor guidance to match the current FastAPI,
-  Next.js, and Tauri project structure.
-
-**Skills shown:** contributor experience, technical documentation,
-project-structure review, onboarding improvement.
+These contributions complement my broader experience in software delivery,
+systems integration, QA and release governance, cybersecurity,
+telecommunications and technical leadership.
 
 ## Featured portfolio projects
 
