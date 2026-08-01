@@ -24,7 +24,7 @@ My recent contribution work demonstrates the ability to:
 
 | Project | Contribution | Status |
 | --- | --- | --- |
-| [Beets](https://github.com/beetbox/beets) | Improved the Tidal metadata plugin so `search_limit` counts distinct album and track candidates, with regression coverage for duplicate handling, generator continuation and early stopping. | [PR #6896](https://github.com/beetbox/beets/pull/6896) — in review, CI passing |
+| [Beets](https://github.com/beetbox/beets) | Improved the Tidal metadata plugin so `search_limit` counts distinct album and track candidates, with regression coverage for duplicate handling, generator continuation and early stopping. | [PR #6896](https://github.com/beetbox/beets/pull/6896) — closed in favour of an earlier overlapping PR; implementation and regression tests passed CI |
 | [gettext-tstrings](https://github.com/yhay81/gettext-tstrings) | Added multilingual documentation link-target parity checks and corrected translated-page link defects. | [PR #26](https://github.com/yhay81/gettext-tstrings/pull/26) — merged |
 | [AirMCP](https://github.com/heznpc/AirMCP) | Delivered four merged contributions covering testing documentation, contributor workflow, template-drift validation and deterministic security-audit report testing. | [#406](https://github.com/heznpc/AirMCP/pull/406), [#412](https://github.com/heznpc/AirMCP/pull/412), [#415](https://github.com/heznpc/AirMCP/pull/415), [#417](https://github.com/heznpc/AirMCP/pull/417) — merged |
 
