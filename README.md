@@ -22,11 +22,17 @@ My recent contribution work demonstrates the ability to:
 
 ### Selected contributions
 
-| Project | Contribution | Status |
+Only merged upstream contributions are listed here.
+
+| Project | Contribution | Merged PR |
 | --- | --- | --- |
-| [Beets](https://github.com/beetbox/beets) | Improved the Tidal metadata plugin so `search_limit` counts distinct album and track candidates, with regression coverage for duplicate handling, generator continuation and early stopping. | [PR #6896](https://github.com/beetbox/beets/pull/6896) — closed in favour of an earlier overlapping PR; implementation and regression tests passed CI |
-| [gettext-tstrings](https://github.com/yhay81/gettext-tstrings) | Added multilingual documentation link-target parity checks and corrected translated-page link defects. | [PR #26](https://github.com/yhay81/gettext-tstrings/pull/26) — merged |
-| [AirMCP](https://github.com/heznpc/AirMCP) | Delivered four merged contributions covering testing documentation, contributor workflow, template-drift validation and deterministic security-audit report testing. | [#406](https://github.com/heznpc/AirMCP/pull/406), [#412](https://github.com/heznpc/AirMCP/pull/412), [#415](https://github.com/heznpc/AirMCP/pull/415), [#417](https://github.com/heznpc/AirMCP/pull/417) — merged |
+| [Markdown Reader](https://github.com/petertzy/markdown-reader) | Modernised contributor onboarding for the current FastAPI, Next.js and Tauri architecture, including setup, local development, validation, security and contribution-workflow guidance. | [#206](https://github.com/petertzy/markdown-reader/pull/206) |
+| [gettext-tstrings](https://github.com/yhay81/gettext-tstrings) | Added deterministic regression testing to verify translation-context isolation across overlapping asyncio tasks and correct restoration of task-local translation state. | [#36](https://github.com/yhay81/gettext-tstrings/pull/36) |
+| [gettext-tstrings](https://github.com/yhay81/gettext-tstrings) | Fixed translated-documentation link defects and added automated link-target parity checks to prevent multilingual documentation drift. | [#26](https://github.com/yhay81/gettext-tstrings/pull/26) |
+| [AirMCP](https://github.com/heznpc/AirMCP) | Added deterministic fixture-driven Jest coverage for the security-audit report summariser while preserving the existing npm-audit CI behaviour. | [#417](https://github.com/heznpc/AirMCP/pull/417) |
+| [AirMCP](https://github.com/heznpc/AirMCP) | Synchronised contribution templates with MODULE_MANIFEST and added automated Jest regression protection against future module/template drift. | [#415](https://github.com/heznpc/AirMCP/pull/415) |
+| [AirMCP](https://github.com/heznpc/AirMCP) | Modernised contributor guidance for the current server.registerTool() and MODULE_MANIFEST workflow while preserving established safety guidance. | [#412](https://github.com/heznpc/AirMCP/pull/412) |
+| [AirMCP](https://github.com/heznpc/AirMCP) | Updated testing guidance for Jest 30 and Zod 4 and added automated checks to detect future documentation/tooling drift. | [#406](https://github.com/heznpc/AirMCP/pull/406) |
 
 These contributions complement my broader experience in software delivery,
 systems integration, QA and release governance, cybersecurity,
