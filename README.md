@@ -26,6 +26,8 @@ Only merged upstream contributions are listed here.
 
 | Project | Contribution | Merged PR |
 | --- | --- | --- |
+| [Tapflow](https://github.com/jo-duchan/tapflow) | Added an independent raw JavaScript chunk-size regression guard that catches removal of dashboard vendor chunking while preserving the existing first-load Brotli performance budget. | [#525](https://github.com/jo-duchan/tapflow/pull/525) |
+| [Tapflow](https://github.com/jo-duchan/tapflow) | Reduced the dashboard’s largest JavaScript bundle from ~542 kB to ~285 kB with measured Vite/Rollup vendor chunking, preserving lazy loading and adding a Brotli first-load regression guard. | [#520](https://github.com/jo-duchan/tapflow/pull/520) |
 | [Markdown Reader](https://github.com/petertzy/markdown-reader) | Modernised contributor onboarding for the current FastAPI, Next.js and Tauri architecture, including setup, local development, validation, security and contribution-workflow guidance. | [#206](https://github.com/petertzy/markdown-reader/pull/206) |
 | [gettext-tstrings](https://github.com/yhay81/gettext-tstrings) | Added deterministic regression testing to verify translation-context isolation across overlapping asyncio tasks and correct restoration of task-local translation state. | [#36](https://github.com/yhay81/gettext-tstrings/pull/36) |
 | [gettext-tstrings](https://github.com/yhay81/gettext-tstrings) | Fixed translated-documentation link defects and added automated link-target parity checks to prevent multilingual documentation drift. | [#26](https://github.com/yhay81/gettext-tstrings/pull/26) |
