@@ -40,6 +40,14 @@ These contributions complement my broader experience in software delivery,
 systems integration, QA and release governance, cybersecurity,
 telecommunications and technical leadership.
 
+## Support my open-source work
+
+I contribute focused fixes, regression tests, CI improvements and developer tooling to open-source projects.
+
+If you've found my contributions useful, you can support my continued independent open-source work through [GitHub Sponsors](https://github.com/sponsors/Fhatu12).
+
+Sponsorship is voluntary. It does not guarantee specific features, fixes, response times or upstream acceptance.
+
 ## Featured portfolio projects
 
 ### Mzansi Select — E-commerce Store
