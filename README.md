@@ -46,8 +46,6 @@ I contribute focused fixes, regression tests, CI improvements and developer tool
 
 If you've found my contributions useful, you can support my continued independent open-source work through [GitHub Sponsors](https://github.com/sponsors/Fhatu12).
 
-Sponsorship is voluntary. It does not guarantee specific features, fixes, response times or upstream acceptance.
-
 ## Featured portfolio projects
 
 ### Mzansi Select — E-commerce Store
